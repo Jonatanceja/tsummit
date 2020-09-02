@@ -1,0 +1,18 @@
+Title: Nuestra Flota
+
+----
+
+Carousel:
+
+- 
+  imagen:
+    - camion-1.png
+- 
+  imagen:
+    - camion-2.png
+- 
+  imagen:
+    - camion-3.png
+- 
+  imagen:
+    - camion-1.png

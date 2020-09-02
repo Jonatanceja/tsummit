@@ -1,0 +1,26 @@
+Title: slider
+
+----
+
+Slide:
+
+- 
+  imagen:
+    - portada-nosotros.jpg
+  titulo: El servicio que necesitas
+  texto: >
+    Lorem ipsum dolor sit amet, consectetur
+    adipiscing elit. Maecenas varius tortor
+    nibh, sit amet tempor nibh finibus et.
+    Aenean eu enim justo. Vestibulum aliquam
+    hendrerit molestie.
+- 
+  imagen:
+    - portada-home.jpg
+  titulo: El servicio que necesitas
+  texto: >
+    Lorem ipsum dolor sit amet, consectetur
+    adipiscing elit. Maecenas varius tortor
+    nibh, sit amet tempor nibh finibus et.
+    Aenean eu enim justo. Vestibulum aliquam
+    hendrerit molestie.

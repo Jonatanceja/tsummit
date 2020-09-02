@@ -1,0 +1,15 @@
+title: Servicios
+preset: page
+
+sections:
+  parts:
+    headline: Secciones
+    type: pages
+    status: all
+    info: "{{ page.intendedTemplate }}"
+    image: false
+    templates:
+      - slider
+      - bloque-1
+      - bloque-2
+      - cta

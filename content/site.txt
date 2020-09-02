@@ -1,1 +1,17 @@
-Title: Site Title
+Title: Transportes Summit
+
+----
+
+Acerca: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas varius tortor nibh, sit amet tempor nibh finibus et. Aenean eu enim justo.  
+
+----
+
+Horario: 
+Trabajamos los 7 días de la semana los 365 días del año. 
+Para contacto en oficinas
+Lunes a Viernes: 7:00 - 17:00
+Sabado :7:00 - 12:00
+
+----
+
+Copyright: © Todos los derechos reservados Transportes Summit 2020

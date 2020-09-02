@@ -1,0 +1,26 @@
+Title: Slider principal
+
+----
+
+Slide:
+
+- 
+  imagen:
+    - servicios-portada.jpg
+  titulo: Llevamos tu carga a cualquier lugar
+  texto: >
+    Lorem ipsum dolor sit amet, consectetur
+    adipiscing elit. Maecenas varius tortor
+    nibh, sit amet tempor nibh finibus et.
+    Aenean eu enim justo. Vestibulum aliquam
+    hendrerit molestie.
+- 
+  imagen:
+    - portada-nosotros.jpg
+  titulo: Llevamos tu carga a cualquier lugar
+  texto: >
+    Lorem ipsum dolor sit amet, consectetur
+    adipiscing elit. Maecenas varius tortor
+    nibh, sit amet tempor nibh finibus et.
+    Aenean eu enim justo. Vestibulum aliquam
+    hendrerit molestie.

@@ -1,0 +1,18 @@
+title: Llamado a la acción
+fields:
+  imagen:
+    label: Imagen de fondo
+    type: files
+    max: 1
+  titulo:
+    label: Titulo
+    type: text
+  texto: 
+    label: Texto
+    type: textarea
+  boton:
+    label: Texto de botón
+    type: text
+  link: 
+    label: Enlace de botón
+    type: text

@@ -1,0 +1,18 @@
+title: Contacto
+icon: email
+
+sections:
+  content:
+    type: fields
+    fields:
+      titulo: 
+        label: Título
+        type: text
+      texto:
+        label: Texto
+        type: textarea
+      mapa:
+        label: Mapa
+        type: textarea
+  my_form:
+    extends: formbuilder

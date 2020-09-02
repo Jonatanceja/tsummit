@@ -1,0 +1,1 @@
+@include('partials.slider', ['items' => $page->slide()->toStructure()])

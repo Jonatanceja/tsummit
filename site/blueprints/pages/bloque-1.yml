@@ -1,0 +1,13 @@
+title: Bloque de imagen con texto
+
+fields:
+  imagen: 
+    type: files
+    label: Imagen
+  titulo:
+    type: text
+    label: Título
+  texto:
+    type: textarea
+    label: texto
+    

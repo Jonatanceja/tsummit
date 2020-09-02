@@ -1,0 +1,20 @@
+title: Info
+
+fields: 
+  servicio:
+    type: structure
+    label: Servicio
+    fields: 
+      icono: 
+        label: Imagen de fondo
+        type: files
+        max: 1
+      titulo:
+        label: Título
+        type: text
+      texto:
+        label: Texto
+        type: textarea
+      link:
+        label: Enlace
+        type: text

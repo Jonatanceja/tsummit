@@ -1,0 +1,17 @@
+title: Acerca de 
+
+fields: 
+  acerca:
+    type: structure
+    label: Acerca de
+    fields: 
+      icono: 
+        label: Imagen de fondo
+        type: files
+        max: 1
+      titulo:
+        label: Título
+        type: text
+      texto:
+        label: Texto
+        type: textarea

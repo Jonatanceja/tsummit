@@ -1,0 +1,26 @@
+Title: Slider
+
+----
+
+Slide:
+
+- 
+  imagen:
+    - portada-home.png
+  titulo: Lorem ipsum dolor sit amet
+  texto: >
+    Lorem ipsum dolor sit amet, consectetur
+    adipiscing elit. Maecenas varius tortor
+    nibh, sit amet tempor nibh finibus et.
+    Aenean eu enim justo. Vestibulum aliquam
+    hendrerit molestie.
+- 
+  imagen:
+    - cta-nosotros.jpg
+  titulo: Lorem ipsum dolor sit amet
+  texto: >
+    Lorem ipsum dolor sit amet, consectetur
+    adipiscing elit. Maecenas varius tortor
+    nibh, sit amet tempor nibh finibus et.
+    Aenean eu enim justo. Vestibulum aliquam
+    hendrerit molestie.

@@ -1,0 +1,10 @@
+title: Carousel
+fields: 
+  carousel:
+    type: structure
+    label: Carousel
+    fields: 
+      imagen: 
+        label: Imagen de fondo
+        type: files
+        max: 1

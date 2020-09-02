@@ -1,0 +1,39 @@
+Title: Acerca de
+
+----
+
+Acerca:
+
+- 
+  icono:
+    - objetivo.png
+  titulo: Misión
+  texto: >
+    Lorem ipsum dolor sit amet, consectetur
+    adipiscing elit. Maecenas varius tortor
+    nibh, sit amet tempor nibh finibus et.
+    Aenean eu enim justo. Vestibulum aliquam
+    hendrerit molestie. Mauris malesuada
+    nisi sit amet augue accumsan tincidunt.
+- 
+  icono:
+    - lanzamiento.png
+  titulo: Visión
+  texto: >
+    Lorem ipsum dolor sit amet, consectetur
+    adipiscing elit. Maecenas varius tortor
+    nibh, sit amet tempor nibh finibus et.
+    Aenean eu enim justo. Vestibulum aliquam
+    hendrerit molestie. Mauris malesuada
+    nisi sit amet augue accumsan tincidunt.
+- 
+  icono:
+    - medalla.png
+  titulo: Valores
+  texto: >
+    Lorem ipsum dolor sit amet, consectetur
+    adipiscing elit. Maecenas varius tortor
+    nibh, sit amet tempor nibh finibus et.
+    Aenean eu enim justo. Vestibulum aliquam
+    hendrerit molestie. Mauris malesuada
+    nisi sit amet augue accumsan tincidunt.
