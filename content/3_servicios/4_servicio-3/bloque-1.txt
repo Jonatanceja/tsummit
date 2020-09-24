@@ -1,13 +1,15 @@
-Title: Servicio 3
+Title: Full seco
 
 ----
 
-Imagen: - distribucion_local.jpg
+Imagen:
+
+- tsummit-2.jpg
 
 ----
 
-Titulo: Servicio 3
+Titulo: Full seco
 
 ----
 
-Texto: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas varius tortor nibh, sit amet tempor nibh finibus et. Aenean eu enim justo. Vestibulum aliquam hendrerit molestie. Mauris malesuada nisi sit amet augue accumsan tincidunt. Maecenas tincidunt, velit ac porttitor pulvinar, tortor eros facilisis libero, vitae commodo nunc quam et ligula. Ut nec ipsum sapien. Interdum et malesuada fames ac ante ipsum primis in faucibus. Integer id nisi nec nulla luctus lacinia non eu turpis. Etiam in ex imperdiet justo tincidunt egestas. Ut porttitor urna ac augue cursus tincidunt sit amet sed orci.
+Texto: Ofrecemos servicio de carga general en transporte seco, apegándonos a las normas vigentes de SCT de pesos  y dimensiones. Trabajamos para transportar materiales delicados o que no pueden estar expuestos a la intemperie. Realizamos un seguimiento 24/7 de las unidades con el objetivo de tener la ubicación directa de la carga de nuestros clientes en todo momento, con el fin de otorgarle certeza, seguridad y confianza en el traslado y entrega de sus mercancías.

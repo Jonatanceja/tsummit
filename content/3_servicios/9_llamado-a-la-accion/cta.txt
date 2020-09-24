@@ -1,0 +1,23 @@
+Title: Llamado a la acción
+
+----
+
+Imagen:
+
+- cta-nosotros.jpg
+
+----
+
+Titulo: Cubrimos las necesidades de su empresa
+
+----
+
+Texto: Si ya te encuentras listo para enviar tu carga con nosotros, estamos aquí para ayudarte.
+
+----
+
+Boton: Contacto
+
+----
+
+Link: /contacto

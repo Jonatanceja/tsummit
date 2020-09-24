@@ -6,21 +6,27 @@ Slide:
 
 - 
   imagen:
-    - portada-home.png
-  titulo: Lorem ipsum dolor sit amet
+    - tsummit-6.jpg
+  titulo: Nuestra misión
   texto: >
-    Lorem ipsum dolor sit amet, consectetur
-    adipiscing elit. Maecenas varius tortor
-    nibh, sit amet tempor nibh finibus et.
-    Aenean eu enim justo. Vestibulum aliquam
-    hendrerit molestie.
+    Desarrollar soluciones de transporte que
+    incrementen la productividad y seguridad
+    de sus almacenes y procesos de trabajo.
+    Consiguiendo ahorros, optimizando
+    tiempos y obteniendo mejoras para
+    nuestros clientes, asegurando así,
+    nuestro éxito y el éxito de sus
+    empresas.
 - 
   imagen:
-    - cta-nosotros.jpg
-  titulo: Lorem ipsum dolor sit amet
+    - tsummit-2.jpg
+  titulo: Nuestra visión
   texto: >
-    Lorem ipsum dolor sit amet, consectetur
-    adipiscing elit. Maecenas varius tortor
-    nibh, sit amet tempor nibh finibus et.
-    Aenean eu enim justo. Vestibulum aliquam
-    hendrerit molestie.
+    Ser conscientes de la importancia de
+    cumplir los compromisos adquiridos y de
+    no defraudar la confianza que los
+    clientes depositan en nosotros, dando
+    absoluta prioridad al cumplimiento de
+    los compromisos acordados y en especial
+    los que hacen referencia a plazos,
+    calidad y seguridad.

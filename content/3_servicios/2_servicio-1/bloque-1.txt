@@ -1,15 +1,13 @@
-Title: Servicio 1
+Title: Caja Refrigerada
 
 ----
 
-Imagen:
-
-- distribucion_local.jpg
+Imagen: - tsummit-6.jpg
 
 ----
 
-Titulo: Servicio 1
+Titulo: Caja refrigerada
 
 ----
 
-Texto: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas varius tortor nibh, sit amet tempor nibh finibus et. Aenean eu enim justo. Vestibulum aliquam hendrerit molestie. Mauris malesuada nisi sit amet augue accumsan tincidunt. Maecenas tincidunt, velit ac porttitor pulvinar, tortor eros facilisis libero, vitae commodo nunc quam et ligula. Ut nec ipsum sapien. Interdum et malesuada fames ac ante ipsum primis in faucibus. Integer id nisi nec nulla luctus lacinia non eu turpis. Etiam in ex imperdiet justo tincidunt egestas. Ut porttitor urna ac augue cursus tincidunt sit amet sed orci.
+Texto: Ideal para transportar y conservar con seguridad tus productos perecederos.  Transportamos tus alimentos o medicamentos en contenedores o cajas refrigeradas con aislamiento térmico, que ayuda a mantener la temperatura deseada durante los trayectos, con lo cual, aseguramos que lleguen frescos a su destino.

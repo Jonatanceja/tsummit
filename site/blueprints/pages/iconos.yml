@@ -1,0 +1,23 @@
+title: Iconos
+
+fields: 
+  acerca:
+    type: structure
+    label: Acerca de
+    fields: 
+      icono: 
+        label: Icono
+        type: files
+        max: 1
+      titulo:
+        label: Título
+        type: text
+      texto:
+        label: Texto
+        type: textarea
+  link: 
+    type: text
+    label: Enlace
+  boton: 
+    type: text
+    label: Texto del botón

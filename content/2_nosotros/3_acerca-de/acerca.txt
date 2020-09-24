@@ -1,4 +1,4 @@
-Title: Acerca de
+Title: Nuestros valores
 
 ----
 
@@ -7,33 +7,21 @@ Acerca:
 - 
   icono:
     - objetivo.png
-  titulo: Misión
+  titulo: Excelencia
   texto: >
-    Lorem ipsum dolor sit amet, consectetur
-    adipiscing elit. Maecenas varius tortor
-    nibh, sit amet tempor nibh finibus et.
-    Aenean eu enim justo. Vestibulum aliquam
-    hendrerit molestie. Mauris malesuada
-    nisi sit amet augue accumsan tincidunt.
+    Ejecutamos con calidad y aplicamos las
+    mejores prácticas.
 - 
   icono:
     - lanzamiento.png
-  titulo: Visión
+  titulo: Compromiso
   texto: >
-    Lorem ipsum dolor sit amet, consectetur
-    adipiscing elit. Maecenas varius tortor
-    nibh, sit amet tempor nibh finibus et.
-    Aenean eu enim justo. Vestibulum aliquam
-    hendrerit molestie. Mauris malesuada
-    nisi sit amet augue accumsan tincidunt.
+    Tenemos un gran sentido de
+    responsabilidad y cumplimiento.
 - 
   icono:
     - medalla.png
-  titulo: Valores
+  titulo: Experiencia
   texto: >
-    Lorem ipsum dolor sit amet, consectetur
-    adipiscing elit. Maecenas varius tortor
-    nibh, sit amet tempor nibh finibus et.
-    Aenean eu enim justo. Vestibulum aliquam
-    hendrerit molestie. Mauris malesuada
-    nisi sit amet augue accumsan tincidunt.
+    Nuestros operadores están capacitados y
+    cuentan con la más amplia experiencia

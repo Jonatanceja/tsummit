@@ -6,21 +6,23 @@ Slide:
 
 - 
   imagen:
-    - servicios-portada.jpg
-  titulo: Llevamos tu carga a cualquier lugar
+    - tsummit-10.jpg
+  titulo: Bienvenido a Transportes Summit
   texto: >
-    Lorem ipsum dolor sit amet, consectetur
-    adipiscing elit. Maecenas varius tortor
-    nibh, sit amet tempor nibh finibus et.
-    Aenean eu enim justo. Vestibulum aliquam
-    hendrerit molestie.
+    Somos una empresa especializada en
+    brindar servicios de transporte,
+    distribución y logística, enfocados en
+    desarrollar relaciones comerciales
+    duraderas y no solo transacciones
+    únicas.
 - 
   imagen:
-    - portada-nosotros.jpg
+    - tsummit-4.jpg
   titulo: Llevamos tu carga a cualquier lugar
   texto: >
-    Lorem ipsum dolor sit amet, consectetur
-    adipiscing elit. Maecenas varius tortor
-    nibh, sit amet tempor nibh finibus et.
-    Aenean eu enim justo. Vestibulum aliquam
-    hendrerit molestie.
+    La comunicación efectiva, el servicio,
+    la flexibilidad y la confiabilidad son
+    las razones por las que esta empresa
+    trabaja todos los días para ofrecerle
+    servicios de transporte y distribución
+    de alta calidad.

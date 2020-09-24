@@ -1,7 +1,7 @@
 <div class="flex w-full text-left z-0">
     <div class="slider w-full">
         <?php if($image = $page->imagen()->toFile()): ?>  
-        <div class="py-16 md:py-40" style="background:linear-gradient(0deg, rgba(45, 55, 72, 0.7), rgba(45, 55, 72, 0.7)), url({{ $image->url() }});">
+        <div class="py-16 md:py-40" style="background:linear-gradient(0deg, rgba(45, 55, 72, 0.7), rgba(45, 55, 72, 0.7)), url({{ $image->url() }}); background-position: center;">
         <?php endif ?>
             <div class="container mx-auto items-center p-12 md:p-0">
                 <h1 class="w-full md:w-1/2 uppercase text-2xl lg:text-4xl tracking-widest text-white font-bold"><b>{{ $page->titulo() }}</b></h1>
